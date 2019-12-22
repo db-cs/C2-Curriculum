@@ -23,14 +23,14 @@ doks:
         text: Coding 2 Curriculum
         image:
       description: An advanced level software development curriculum used at Dobyns-Bennett HS.
-      copyright: The content of this curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 License</a>.
+      copyright: The content of this curriculum is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 License</a>.
     social_list:
       - network_name: twitter
-        profile_url: "http://twitter.com/dnbailey"
+        profile_url: "https://twitter.com/dnbailey"
       - network_name: medium
         profile_url: "https://medium.com/tribe-bytes"
       - network_name: github
-        profile_url: "http://github.com/db-cs"
+        profile_url: "https://github.com/db-cs"
 
 # SASS settings
 sass:
