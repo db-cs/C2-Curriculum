@@ -6,7 +6,7 @@ keywords:
 # Hero section
 title: Coding 2
 description: > 
-  Coding 2 challenges students to develop advanced skills in problem analysis, construction of algorithms, and computer implementation of algorithms as they work on programming projects of increased complexity.
+  Coding 2 challenges you to develop advanced skills in problem analysis, construction of algorithms, and computer implementation of algorithms as you work on programming projects of increased complexity.
 
 buttons:
     - content: Syllabus
