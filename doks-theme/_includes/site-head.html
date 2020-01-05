@@ -1,14 +1,17 @@
 <meta charset="UTF-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 <meta name="viewport" content="width=device-width, minimum-scale=1.0" />
-<title>{{ page.title }}</title>
+<title>
+  {% if page.head_title%}{{ page.head_title}} | {{site.doks.header.logo.text
+  }}{% else %}{{site.doks.header.logo.text}}{% endif %}
+</title>
 {% if page.description %}
 <meta name="description" content="{{ page.description }}" />
 {% endif %} {% if page.keywords %}
 <meta name="keywords" content="{{ page.keywords }}" />
 {% endif %}
 <link
-  rel="icon"
+  rel="shortcut icon"
   href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/favicon.png"
   type="image/png"
 />
