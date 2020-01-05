@@ -11,8 +11,6 @@ doks:
         item_url: "/"
       - item_name: Syllabus
         item_url: "/syllabus"
-      - item_name: U1
-        item_url: "/u1"
       - item_name: Capstone
         item_url: "/capstone"
       - item_name: Resources
