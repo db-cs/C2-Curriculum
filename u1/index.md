@@ -1,11 +1,12 @@
 ---
 # Page settings
 layout: default
+head_title: Unit 1 
 keywords:
 comments: false
 
 # Hero section
-title: Unit 1
+title: Unit 1<br>Software Development Environments
 description: >
     In this unit you will be exploring various software development environments. We will focus on JavaScript tooling, which is chaotic and constantly changing.
 
@@ -16,7 +17,7 @@ micro_nav: false
 page_nav:
     next:
         content: Chapter 1
-        url: '/u1/ch1'
+        url: '/u1/c1'
 ---
 
 # Overview
@@ -28,19 +29,16 @@ Software development is a complex process that involves a lot of craftsmanship a
 
 ## Table of Contents
 
-| Chapter                     | Description                                          |
-| --------------------------- | ---------------------------------------------------- |
-| [Chapter 1](ch1)            | Compare and contrast various tools for writing code. |
-| [Chapter 2](ch2)            |                                                      |
-| [Presentation Project](p1)  |                                                      |
-| [Chapter 3](ch3)            |                                                      |
-| [Chapter 4](ch4)            |                                                      |
-| [Chapter 5](ch5)            |                                                      |
-| [Personal Blog Project](p1) |                                                      |
+| Chapter             | Description                                                                                                |
+| ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [**Chapter 1**](c1) | Explore and evaluate various tools for developing Javascript software applications.                        |
+| [**Project 1**](p1) | Select, present, and defend a tool for part of a software development environment used on a personal blog. |
+| [**Project 2**](p2) | Create a Developer Blog and write your first post                                                          |
 
 ## Objectives
 
 - Compare and contrast various tools used to create a software development environment.
+- Create a developer blog using a software development environment
 
 ## TN Standards
 
