@@ -1,6 +1,7 @@
 ---
 # Page settings
 layout: default
+head_title: Capstone
 keywords:
 comments: false
 
@@ -54,17 +55,16 @@ The capstone project will follow an agile software development life cycle.
 
 ![Software Development Life Cycle](sdlc.png)
 
-**Figure 1** - *The Software Development Life Cycle*
+**Figure 1** - *Agile Software Development Life Cycle*
 
 ## Requirements
-
 
 ### Project Proposal
 
 To begin the capstone project, you will submit a project proposal that details your plans for the project. In the proposal you will define the requirements for the project, which will begin the software development life cycle (see Figure 1).
 
 <div class="callout callout--info">
-  <p><strong><b>TODO</b> - Project Proposal</strong></p>
+  <p><strong><b>Deliverable</b> - Project Proposal</strong></p>
   <p>Open the link below to create a copy of the Proposal Template. Send an email to <a href="mailto:dbailey@k12k.com?subject=Capstone%20Project%20Proposal">dbailey@k12k.com</a> with the subject "Capstone Project Proposal" and attach the Google Doc in the body of the email.</p>
   <br>
   <div style="text-align:center">
@@ -76,6 +76,13 @@ To begin the capstone project, you will submit a project proposal that details y
 
 ## Design
 
+Choose appropriate tools to design the UI, model the software's data, and create flowcharts of any important logic.
+
+<div class="callout callout--info">
+  <p><strong><b>Deliverable</b> - Project Design</strong></p>
+  <p>Send an email to <a href="mailto:dbailey@k12k.com?subject=Capstone%20Project%20Design">dbailey@k12k.com</a> with the subject "Capstone Project Design" and attach links to all documents included in your design in the body of the email.</p>
+</div>
+
 ## Develop
 
 ### GitHub Repository
@@ -83,25 +90,25 @@ To begin the capstone project, you will submit a project proposal that details y
 GitHub will be used to host your code. As the software is developed, changes should be pushed to GitHub, so I can track your progress, submit reviews, and suggest improvements. **If it is not on the repo, it does not exist.**
 
 <div class="callout callout--info">
-  <p><strong><b>TODO</b> - GitHub Repository</strong></p>
+  <p><strong><b>Deliverable</b> - GitHub Repository</strong></p>
   <ol>
-    <li>Open the link below and start a new repository.</li>
-    <li>Use the form below to submit a link to your repository.</li>
-  </ol>
+    <li>Open the link below.</li>
+    <li>Create a new repository.</li>
+  
   <br>
-  <div style="text-align:center">
-    <a href="http://github.com/new" class="btn btn--dark btn--rounded btn--w-icon"><i class="icon icon--github"></i>Start a New Repository</a>
-  </div>
+    <a href="https://github.com/new" class="btn btn--dark btn--rounded btn--w-icon"><i class="icon icon--github"></i>Start a New Repository</a>
+  <li>Use the form below to submit a link to your repository.</li>
+</ol>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbXiOT6paIvlhZpjRs3GPLUap124njWmThkUJl03kR3WQa8g/viewform?embedded=true"  style="max-width: 640px;" width="100%" height="707" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbXiOT6paIvlhZpjRs3GPLUap124njWmThkUJl03kR3WQa8g/viewform?embedded=true"  style="max-width: 640px;" width="100%" height="707" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### Reports
 
 Throughout the semester you will submit reports on the progress of your project.  The report should make reference to the software development life cycle (see Figure 1).
 
 <div class="callout callout--info">
-  <p><strong><b>TODO</b> - Project Progress Report</strong></p>
+  <p><strong><b>Deliverable</b> - Project Progress Report</strong></p>
   <p>Open the link below and make a copy of the Report Template. Send an email to <a href="mailto:dbailey@k12k.com?subject=Caspstone%20Project%20Proposal">dbailey@k12k.com</a> with "Capstone Project Proposal" in the subject line and attach the Google Doc in the body of the email.</p>
   <br>
   <div style="text-align:center">
@@ -111,21 +118,53 @@ Throughout the semester you will submit reports on the progress of your project.
   </div>
 </div>
 
+## Testing
+
+Your project should include testing and code reviews. 
+
+### Tests
+
+<div class="callout callout--info">
+<p><strong><b>Deliverable</b> - Tests</strong></p>
+<p>Your project should include at least one <b>Unit Test</b> and one <b>Integration Test</b>. You may choose a testing framework and any tools necessary to implement those tests. Test should be executable as an npm script and use the command <code>npm run test</code>.</p>
+</div>
+
+### Code Reviews
+
+<div class="callout callout--info">
+<p><strong><b>Deliverable</b> - Code Review</strong></p>
+<p>At some point during the development of your project, you will need a classmate to complete a code review of your project. Start a pull request and request a review by a person in the class. Communicate back and forth through the pull request, and utilize feedback to modify your code. Submit a link to the pull request below.</p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkGKE9-VM8muEOYAKPq6JwISRmKqQOmi0bJh5dVRIhuVvRvw/viewform?embedded=true"  style="max-width: 640px;" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+
 ## Deployment
 
 ### Software Artifact
 
 Your software artifact must be published in a way that is accessible to the public via the internet. It is okay if it must be downloaded, but it must be available to the public.
 
+<div class="callout callout--info">
+<p><strong><b>Deliverable</b> - Software Artifact</strong></p>
+<p>Make your software public. Submit a link to the project below. <b>Be sure it's public by opening an Incognito tab and checking that it is still accessible.</b></p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf4Beh-fxO_B22SiL0YekAtyDHc9FNl0FpX93SW6f1mF-F0rQ/viewform?embedded=true"  style="max-width: 640px;" width="100%" height="724" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+
+## Review
+
 ### Presentation
 
 For your final, you will present your Capstone Project to your classmates and a group of professionals. The presentation should demonstrate your final software artifact and explain your journey through the Software Development Life Cycle.
 
 <div class="callout callout--info">
-  <p><strong><b>TODO</b> - Final Presentation</strong></p>
+  <p><strong><b>Deliverable</b> - Final Presentation</strong></p>
   <p>You can use an template for your presentation, but Slide Carnival offers some good ones for technology presentations. Consider using a template to make you presentation more professional.</p>
   <br>
   <div style="text-align:center"><a href="https://www.slidescarnival.com/tag/tech" class="btn btn--dark btn--rounded btn--w-icon">Slide Carnival Templates</a></div>
+
+  <p>
+    <b>Send an email to dbailey@k12k.com with "Capstone Project Presentation" in the subject line and attach a link to your presentation in the body of the email.</b>
+  </p>
+
 </div>
 
 <div class="callout callout--warning">
@@ -135,27 +174,13 @@ For your final, you will present your Capstone Project to your classmates and a 
 
 # Deliverables and Due Dates
 
-| Delieverable                            | Due Date         |
-| --------------------------------------- | ---------------- |
-| [Project Proposal](#project-proposal)   | January 10, 2020 |
-| [UI/UX Design](#)                       | January 10, 2020 |
-| [Project Report #1](#reports)           | January 10, 2020 |
-| [Project Report #2](#reports)           | January 10, 2020 |
-| [Project Report #3](#reports)           | January 10, 2020 |
-| [Testing/Quality Assurance](#)          | January 10, 2020 |
-| [Software Artifact](#software-artifact) | January 10, 2020 |
-| [Project Presentation](#presentation)   | May 10, 2020     |
-
-# Rubric
-
-You will be evaluated using a single-point rubric. The center represents the criteria your project will be judged with, and the right and left columns will record positives and negatives concerning that criteria.
-
-
-| -   |                                                              Criteria                                                              | +   |
-| --- | :--------------------------------------------------------------------------------------------------------------------------------: | --- |
-|     |    **Project Proposal**<br>Student used provided template. Requirements are detailed, timeline is specific, and scope is clear.    |     |
-|     |   **Software Artifact**<br>Student created a working software artifact that is polished and functions according to requirements.   |     |
-|     |        **Reports**<br>Student filed regular progress reports using provided template. Reports are detailed and error free.         |     |
-|     | **Presentation**<br>Project presented in formal oral presentation. Presentation is polished and student is dressed professionally. |     |
-|     |   **Software Development Environment**<br>Student can articulate reasons for their choices of Software Development Environment.    |     |
-|     |                **Version Control**<br>Student effectively uses Git and GitHub to document the development process.                 |     |
+| Deliverable                             | Due Date          |
+| --------------------------------------- | ----------------- |
+| [Project Proposal](#project-proposal)   | January 24, 2020  |
+| [UI/UX Design](#design)                 | February 14, 2020 |
+| [Project Report #1](#reports)           | February 28, 2020 |
+| [Project Report #2](#reports)           | March 20, 2020    |
+| [Project Report #3](#reports)           | April 17, 2020    |
+| [Code Review](#code-reviews)            | May 1, 2020       |
+| [Software Artifact](#software-artifact) | May 15, 2020      |
+| [Project Presentation](#presentation)   | May 18, 2020      |
