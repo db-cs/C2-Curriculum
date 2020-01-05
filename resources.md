@@ -1,6 +1,7 @@
 ---
 # Page settings
 layout: default
+head_title: Resources
 keywords:
 comments: false
 
