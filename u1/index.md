@@ -34,11 +34,14 @@ Software development is a complex process that involves a lot of craftsmanship a
 | [**Chapter 1**](c1) | Explore and evaluate various tools for developing Javascript software applications.                        |
 | [**Project 1**](p1) | Select, present, and defend a tool for part of a software development environment used on a personal blog. |
 | [**Project 2**](p2) | Create a Developer Blog and write your first post                                                          |
+| [**Chapter 2**](c2) | Learn more about React apps and and your SDE.                                                              |
+| [**Project 3**](p3) | Create a Todo List to practice using developing software using your SDE.                                   |
 
 ## Objectives
 
 - Compare and contrast various tools used to create a software development environment.
 - Create a developer blog using a software development environment
+- Create starter apps using your newly selected SDEs
 
 ## TN Standards
 

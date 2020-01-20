@@ -17,6 +17,9 @@ page_nav:
   prev:
     content: Project 1
     url: "/u1/p1"
+  next:
+    content: Project 3
+    url: "/u1/p3"
 ---
 
 # Overview
