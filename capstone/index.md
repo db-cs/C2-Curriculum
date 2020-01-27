@@ -176,7 +176,7 @@ For your final, you will present your Capstone Project to your classmates and a 
 
 | Deliverable                             | Due Date          |
 | --------------------------------------- | ----------------- |
-| [Project Proposal](#project-proposal)   | January 24, 2020  |
+| [Project Proposal](#project-proposal)   | January 31, 2020  |
 | [UI/UX Design](#design)                 | February 14, 2020 |
 | [Project Report #1](#reports)           | February 28, 2020 |
 | [Project Report #2](#reports)           | March 20, 2020    |
