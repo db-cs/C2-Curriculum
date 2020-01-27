@@ -63,5 +63,5 @@ Explore other component libraries like Material UI or Ant that you could potenti
 
 <div class="callout callout--info">
   <p><strong><b>Deliverable</b> - Blog Post Reflection</strong></p>
-  <p>Create a new blog post for your developer blog that reflects on your experience creating the Todo List App. Include screenshots and links to your code. Reflect on the basics of working with React. Also specifically reflect on the experience of customizing your blog. How did your SDE help you create your app? What tools or resources do you wish you had in your SDE?</p>
+  <p>Create a new blog post for your developer blog that reflects on your experience creating the Todo List App. Include screenshots and links to your code. Reflect on the basics of working with React. Also specifically reflect on the experience of customizing your todo list app. How did your SDE help you create your app? What tools or resources do you wish you had in your SDE?</p>
 </div>
