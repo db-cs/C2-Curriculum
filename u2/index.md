@@ -37,8 +37,9 @@ Software development begins with a solid plan. Sometimes when you are working on
 ## Objectives
 
 - Define the requirements for a client's software project.
-- Analysize the client's need and define users
-- 
+- Analysize the client's need and define the software requirments accordingly.
+- Define users and their stories in order to understand requirments.
+- Develop a system to track project process towards completing requirments.
 
 ## TN Standards
 
