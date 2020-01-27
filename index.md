@@ -23,13 +23,13 @@ buttons:
 # Grid navigation
 grid_navigation:
     - title: Unit 1
-      excerpt: In this unit you will learn about JavaScript Software Development Environments
+      excerpt: In this unit you will learn about JavaScript Software Development Environments.
       cta: Get started
       url: '/u1'
-    # - title: Unit 2
-    #   excerpt: Section description
-    #   cta: Get started
-    #   url: '#'
+    - title: Unit 2
+      excerpt: In this unit you will learn different ways to set the requirements for a software project.
+      cta: Get started
+      url: '/u2'
     # - title: Unit 3
     #   excerpt: Section description
     #   cta: Get started
