@@ -26,11 +26,14 @@ The goal of this project is to create a story map for your team's software proje
 ![User Story Map Example](storymap.jpg)
 <small>Source: [Alexandru Bolboaca](https://mozaicworks.com/blog/3-uses-story-maps-build-better-product/)</small>
 
-<iframe style="max-width: 640px;" width="100%" height="360" src="https://www.youtube.com/embed/k_4SchJgAI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # Deliverables
 
 <div class="callout callout--info">
   <p><strong><b>Deliverable</b> - User Story Map</strong></p>
-  <p>Build a physical board to map your users and their stories. You may use markers, sticky notes, and anything else to help setup your board.</p>
+  <p>Build a physical board to map your users and their stories. You may use markers, sticky notes, and anything else to help setup your board. Collaboration is important to successfully creating your board. Everyone should understand the requirements, so the conversations are more important that the physical board.</p>
+</div>
+
+<div class="callout callout--info">
+  <p><strong><b>Deliverable</b> - Blog Post Reflection</strong></p>
+  <p>Create a new blog post for your developer blog that reflects on your experience creating the User Story Map. Include photos of your physical board. Reflect on how you collaborated as a team. What was your contributions - be specific? Why are tools like user stories and user story maps important to developing software?</p>
 </div>

@@ -28,6 +28,11 @@ Good software should always start with the user. You app or software can't be su
 ![User Story Mapping](user-stories.png)
 <small>Source: [https://plan.io/blog/user-story-mapping/](https://plan.io/blog/user-story-mapping/)</small>
 
+![User Story Card Example](user-story-card.jpg)
+
+<small>Source: [https://www.emergn.com/blog/write-great-user-stories/](https://www.emergn.com/blog/write-great-user-stories/)</small>
+
+
 # User Personas
 Personas let you get into the skin of your user. Being able to empathize with your user is critical as you begin to develop to meet their needs. Failure to understand your user will lead to failure of your software.
 
@@ -42,3 +47,13 @@ Story maps help structure your software using the story as the basis. Tasks are 
 <small>Source: [https://plan.io/blog/user-story-mapping/](https://plan.io/blog/user-story-mapping/)</small>
 
 <a href="story_mapping.pdf" class="btn btn--dark btn--rounded" >Story Mapping Guide</a>
+
+# Divide and Conquer
+
+Choose one video below to watch in its entirety. Take notes on the key points from the video. Get with the other members in your group and share what you've learned. You are responsible for sharing insights from your video to build the groups understanding. Be sure you discuss when your sources disagree or define things differently.
+
+<iframe style="max-width: 640px;" width="100%" height="360" src="https://www.youtube.com/embed/k_4SchJgAI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="max-width: 640px;" width="100%" height="360" src="https://www.youtube.com/embed/eYZ8vBXL1kk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="max-width: 640px;" width="100%" height="360" src="https://www.youtube.com/embed/Fw98L-kcRpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
