@@ -26,6 +26,10 @@ The goal of this project is to create a story map for your team's software proje
 ![User Story Map Example](storymap.jpg)
 <small>Source: [Alexandru Bolboaca](https://mozaicworks.com/blog/3-uses-story-maps-build-better-product/)</small>
 
+It is important to really think through the requirments for your project, but things will change. This process is messy and iterative. Don't be suprised if your board changes several times even after you begin production.
+
+![Changing User Stories Meme](change.jpeg)
+
 # Deliverables
 
 <div class="callout callout--info">
