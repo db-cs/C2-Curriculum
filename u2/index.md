@@ -32,7 +32,7 @@ Software development begins with a solid plan. Sometimes when you are working on
 | Chapter             | Description                                                                                   |
 | ------------------- | --------------------------------------------------------------------------------------------- |
 | [**Chapter 1**](c1) | Understand how to define users and their stories to set the specifications for your software. |
-| [**Project 1**](p1) |                                                                                               |
+| [**Project 1**](p1) | Collaborate with your team to identify the users of your software and define their stories.   |
 
 ## Objectives
 

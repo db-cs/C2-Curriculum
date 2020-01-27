@@ -7,7 +7,7 @@ comments: false
 
 # Hero section
 title: Project 1<br>User Story Map
-description: In this project, you will collaborate with your team to intentify the users of your software and defining the stories that will drive your development.
+description: In this project, you will collaborate with your team to identify the users of your software and define their stories.
 
 # Micro navigation
 micro_nav: true
