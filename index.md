@@ -30,10 +30,10 @@ grid_navigation:
       excerpt: In this unit you will learn different ways to set the requirements for a software project.
       cta: Get started
       url: '/u2'
-    # - title: Unit 3
-    #   excerpt: Section description
-    #   cta: Get started
-    #   url: '#'
+    - title: Unit 3
+      excerpt: In this unit you decompose the project's requirements and begin designing solutions to meet those requirements.
+      cta: Get started
+      url: '/u3'
     # - title: Unit 4
     #   excerpt: Section description
     #   cta: Get started
