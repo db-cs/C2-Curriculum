@@ -32,6 +32,8 @@ A wireframe is a simplified layout for your userinterface. Think about applicati
 
 <a href="https://www.experienceux.co.uk/faqs/what-is-wireframing/" class="btn btn--dark btn--rounded">Wireframing Guide</a>
 
+<a href="https://medium.com/@konstantin.muenster/how-to-plan-and-organize-a-react-project-by-building-a-weather-app-95175b11bd01" class="btn btn--dark btn--rounded">Planning React Components</a>
+
 # Entity Relationship Diagram
 
 An ER diagram is a way to model data stored by your application.
