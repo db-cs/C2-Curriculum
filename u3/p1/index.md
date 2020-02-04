@@ -14,9 +14,12 @@ micro_nav: true
 
 # Page navigation
 page_nav:
-    prev:
-        content: Chapter 1
-        url: '/u3/c1'
+  prev:
+    content: Chapter 1
+    url: "/u3/c1"
+  next:
+    content: Project 2
+    url: "/u3/p2"
 ---
 
 # Overview
