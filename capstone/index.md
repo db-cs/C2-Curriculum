@@ -114,7 +114,7 @@ Throughout the semester you will submit reports on the progress of your project.
   <div style="text-align:center">
     <div><img src="reporttemplate.jpg" alt="Project Report Template" /></div>
     <br>
-    <a href="https://docs.google.com/document/d/16D3h80V5AoWOj6hw0gu3_fPd4YBigFrSgpnU8pUuuMs/copy" class="btn btn--dark btn--rounded">Make a Copy of the Report Template</a>
+    <a href="https://docs.google.com/document/d/1KnglMQ58pXdGNu7TfE9grla7C4F9EGIA4TB9BkZSHEQ/copy" class="btn btn--dark btn--rounded">Make a Copy of the Report Template</a>
   </div>
 </div>
 
@@ -174,13 +174,13 @@ For your final, you will present your Capstone Project to your classmates and a 
 
 # Deliverables and Due Dates
 
-| Deliverable                             | Due Date          |
-| --------------------------------------- | ----------------- |
-| [Project Proposal](#project-proposal)   | January 31, 2020  |
-| [UI/UX Design](#design)                 | February 14, 2020 |
-| [Project Report #1](#reports)           | February 28, 2020 |
-| [Project Report #2](#reports)           | March 20, 2020    |
-| [Project Report #3](#reports)           | April 17, 2020    |
-| [Code Review](#code-reviews)            | May 1, 2020       |
-| [Software Artifact](#software-artifact) | May 15, 2020      |
-| [Project Presentation](#presentation)   | May 18, 2020      |
+| Deliverable                              | Due Date          |
+| ---------------------------------------- | ----------------- |
+| [Project Proposal](#project-proposal)    | January 31, 2020  |
+| [UI/UX Design](#design)                  | February 14, 2020 |
+| [GitHub Repository](#software-artifact)) | February 28, 2020 |
+| [Project Report #1](#reports)            | March 20, 2020    |
+| [Project Report #2](#reports)            | April 17, 2020    |
+| [Code Review](#code-reviews)             | May 1, 2020       |
+| [Software Artifact](#software-artifact)  | May 15, 2020      |
+| [Project Presentation](#presentation)    | May 18, 2020      |
